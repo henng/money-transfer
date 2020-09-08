@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+target
+.classpath
+.settings
+.project
+*.log
+*.iml
+out
+gen
+
+# macOS
+.DS_Store
